@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kibstore&show_icons=true&theme=react)
 
 - 👋 Hi, I’m @KIBstore
 - 👀 I’m interested in ...
